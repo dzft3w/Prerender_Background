@@ -1,5 +1,5 @@
 # Prerender_Background
-A unity scene trying to use prerender image as background. It tries to recreate graphics similar to old games such as resident evil or final fantasy in the 90s. Using depth buffer from rendered images to map the distance of objects, and decide whether an object is block by "foreground" or not.
+A unity scene trying to use prerender image as background. It tries to recreate graphics similar to old games such as resident evil or final fantasy in the 90s. Using depth buffer from rendered images to map the distance of objects, and decide whether an object is blocked by "foreground" or not.
 
 ref:
 https://github.com/SpookyFM/DepthCompositing
