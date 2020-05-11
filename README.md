@@ -3,6 +3,7 @@ A unity scene trying to use prerender image as background. It tries to recreate 
 
 ref:
 https://github.com/SpookyFM/DepthCompositing
+https://www.alanzucconi.com/2019/01/01/parallax-shader/
 
 created using ver. 2019.3.11f
 
